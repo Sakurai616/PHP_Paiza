@@ -1,2 +1,2 @@
 # PHP_Paiza
-PHPの基礎文法学習
+PHPの基礎学習
